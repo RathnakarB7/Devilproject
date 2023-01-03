@@ -32,7 +32,7 @@ Course :
 <br>  
 <br>  
 <label>   
-Gender :  
+Gender :  male
 </label><br>  
 <input type="radio" name="male"/> Male <br>  
 <input type="radio" name="female"/> Female <br>  
